@@ -39,11 +39,7 @@ npm install
 
 ### 2. Configure Environment Variables
 
-Copy `.env.local.example` to `.env.local` and fill in your credentials:
-
-```bash
-cp .env.local.example .env.local
-```
+Fill in your credentials in `.env.local`, adding the below environment variables:
 
 **Firebase** — get from [Firebase Console](https://console.firebase.google.com) → Project Settings → Your Apps → Web App:
 ```
